@@ -1,0 +1,18 @@
+*{
+    
+    font-size: 120%;
+    color: whitesmoke;
+}
+body{
+    background-image: url(black-texture-954.jpg);
+    background-attachment: fixed;
+}
+
+h1,h3{
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align-last: center;
+    font-size: 130%;
+}
